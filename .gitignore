@@ -2,6 +2,9 @@
 #
 .DS_Store
 .vscode
+
+# tests
+__tests__
 # Xcode
 #
 build/
@@ -20,6 +23,7 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
+
 
 # Android/IntelliJ
 #
